@@ -140,7 +140,7 @@ Use when: Time is the natural organizing principle and the narrative arc *is* th
 
 ---
 
-## The 10 Rules
+## 10 Rules for Slide Content & Structure
 
 ### Scope
 
