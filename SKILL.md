@@ -1,5 +1,5 @@
 ---
-name: effective-presentation-slides
+name: effective-presentation
 description: >
   Apply evidence-based content-weighting and narrative-structure principles to
   slide decks and presentations. Use this skill whenever the user is building,

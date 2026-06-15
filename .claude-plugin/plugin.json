@@ -1,0 +1,9 @@
+{
+  "name": "slides",
+  "description": "Evidence-based content and structure principles for slide decks — narrative arc, 10 content rules, and deck review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jan Suchandt"
+  },
+  "homepage": "https://github.com/3m5suchandt/effective-slides-skill"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "slides-marketplace",
+  "owner": {
+    "name": "Jan Suchandt",
+    "email": "jan@suchandt.de"
+  },
+  "description": "Evidence-based presentation skills for Claude Code",
+  "plugins": [
+    {
+      "name": "slides",
+      "source": "./",
+      "description": "Evidence-based content and structure principles for slide decks — narrative arc, 10 content rules, and deck review."
+    }
+  ]
+}
